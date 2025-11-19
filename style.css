@@ -124,7 +124,7 @@ body {
 
 /* Bagian home tambahan */
 #home {
-    background-image: url('img/bg.png');
+    background-image: url('img/bg.jpeg');
     background-size: cover;
     color: #a14c4c;
 }
@@ -206,4 +206,5 @@ html {
 /* Jarak antar kotak (produk) */
 #product .row {
   row-gap: 40px; /*  atur jarak vertikal antar baris */
+
 }
