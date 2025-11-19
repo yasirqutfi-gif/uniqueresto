@@ -27,7 +27,7 @@ body {
 /* Bagian Hero */
 .hero-section {
   position: relative;
-  background: url('img/bg.png') center center / cover no-repeat;
+  background: url('img/bg.jpeg') center center / cover no-repeat;
   min-height: 100vh;
   color: white;
   display: flex;
@@ -208,3 +208,4 @@ html {
   row-gap: 40px; /*  atur jarak vertikal antar baris */
 
 }
+
